@@ -1,0 +1,8 @@
+button {
+cursor: pointer;
+float: left;
+font: inherit;
+margin: 0.25em;
+width: 2em;
+height: 2em;
+}
